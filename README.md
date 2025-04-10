@@ -7,15 +7,15 @@ Repo ini berisi beberapa proyek dari pak isna yang saya kerjakan selama proses b
 ## Daftar Proyek
 
 ### 1. Project1 - Aplikasi Pengenalan Diri
-Deskripsi: Aplikasi pengenalan diri menggunakan Android Studio.
+Deskripsi: Aplikasi pengenalan diri (Tugas Pretest) menggunakan Android Studio.
 - Teknologi: Android Studio
 - [Lihat folder project1](./project1)
 
 ---
 
 ### 2. Project2 - Program Python Perhitungan Gaji
-Deskripsi: Program Python untuk menghitung gaji karyawan berdasarkan jam kerja.
-- Teknologi: Python
+Deskripsi: Program Android Studio mengenai Lifecycle.
+- Teknologi: Android Studio
 - [Lihat folder project2](./project2)
 
 ---
