@@ -1,5 +1,3 @@
-# PPLG_Tugas-PPB
-
 # PPLG-Tugas-PPB
 
 # Kumpulan Tugas SMK Pemrograman Perangkat Bergerak
