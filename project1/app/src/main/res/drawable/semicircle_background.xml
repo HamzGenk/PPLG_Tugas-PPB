@@ -1,0 +1,6 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#D622FF"/> <!-- Ganti dengan warna yang diinginkan -->
+    <corners android:bottomLeftRadius="250dp"
+        android:bottomRightRadius="250dp"/> <!-- Sesuaikan radius untuk setengah lingkaran -->
+</shape>
